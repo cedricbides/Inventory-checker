@@ -1,0 +1,24 @@
+# inventory_pkg — Python dependencies
+# Install with:  pip install -r requirements.txt
+#
+# Python 3.8+ required
+# tkinter is built into Python — no pip install needed
+
+# --- Core (required to run) ---
+
+# Read and write Excel files (.xlsx)
+openpyxl>=3.1.5
+
+# Zalora API calls (OAuth login, product lookups)
+requests>=2.34.0
+
+# Terminal UI — interactive prompts and checkboxes
+questionary>=2.1.0
+
+# Terminal UI — coloured tables and panels
+rich>=13.0.0
+
+
+# --- Dev only (only needed to run tests) ---
+# Install with:  pip install -r requirements-dev.txt
+

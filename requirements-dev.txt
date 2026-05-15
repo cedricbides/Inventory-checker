@@ -1,0 +1,9 @@
+# Dev dependencies — only needed to run tests
+# Install with:  pip install -r requirements-dev.txt
+#
+# Includes everything from requirements.txt plus test tools
+
+-r requirements.txt
+
+# Test runner
+pytest>=8.0.0
