@@ -1,0 +1,12 @@
+# Inventory Checker Web dependencies
+
+flask>=3.0.0
+flask-cors>=4.0.0
+openpyxl>=3.1.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+xlrd>=2.0.0
+pandas>=2.0.0
+
+# Long-term: auto-schedule Zalora pulls
+apscheduler>=3.10.0

@@ -1,0 +1,7 @@
+timestamp,brand,group,channel,total_skus,matched_ordazzle,matched_sap,output_file
+2026-05-24 02:12,Lacoste,SSIEBG Warehouse,Shopee,17398,0,0,Inventory_Result_Lacoste_Shopee_2026-05-24_02-12.xlsx
+2026-06-02 09:29,Old Navy,SLCI Warehouse,Shopee,5797,5349,0,Inventory_Result_OldNavy_Shopee_2026-06-02_09-28.xlsx
+2026-06-02 09:42,Polo Ralph Lauren,SSIEBG Warehouse,Shopee,1166,1077,0,Inventory_Result_PoloRalphLauren_Shopee_2026-06-02_09-42.xlsx
+2026-06-05 10:38,Old Navy,SLCI Warehouse,Shopee,7521,7037,0,Inventory_Result_OldNavy_Shopee_2026-06-05_10-37.xlsx
+2026-06-16 10:51,Gap,SLCI Warehouse,Shopee,1708,1700,0,Inventory_Result_Gap_Shopee_2026-06-16_10-51.xlsx
+2026-06-16 11:32,Gap,SLCI Warehouse,Lazada,7779,7192,0,Inventory_Result_Gap_Lazada_2026-06-16_11-32.xlsx
